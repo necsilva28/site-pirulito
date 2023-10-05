@@ -83,7 +83,7 @@ ul {
   } 
 
 @media(max-width:1200px){
-    .cabecalho{
+    .container{
         padding: 10%;
     }
 
